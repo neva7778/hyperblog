@@ -12,5 +12,6 @@ Un blog increible para el curso de Git y Github de Platzi
 * Las personalidades múltiples de Freddy
 * Creado por Yo Noel Velasquez
 * Por ahora solo ejemplos en Windows
+* Disponible para todas las edades
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO  y mejor ver a el curso en [**Platzi/mi github**](https://github.com/neva7778/hyperblog/tree/master)
